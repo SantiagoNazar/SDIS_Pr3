@@ -8,7 +8,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/<SDIS_Pr3>/'
+    base: '/SDIS_Pr3/'
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
