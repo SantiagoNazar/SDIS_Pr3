@@ -15,7 +15,7 @@ export const mutations = {
         state.items.splice(state.items.indexOf(item), 1)
     },
     initialize(state) {
-        state.initialize = true 
+        state.initialized = true 
     }
 }
 
